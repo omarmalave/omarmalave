@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Omar Malavé</h1>
 <h3 align="center">A passionate Software Engineer from Venezuela</h3>
 
-- 🔭 I’m currently working on [Intelenz](www.intelenz.com)
+- 🔭 I’m currently working on [Intelenz](https://www.intelenz.com/)
 
 - 🌱 I’m currently learning **Python and Machine Learning**
 
