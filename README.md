@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Omar Malavé</h1>
-<h3 align="center">A passionate Fullstack Developer from Venezuela</h3>
+<h3 align="center">A passionate Software Engineer from Venezuela</h3>
 
 - 🔭 I’m currently working on [Intelenz](www.intelenz.com)
 
