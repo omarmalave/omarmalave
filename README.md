@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Omar Malavé</h1>
 <h3 align="center">Software Engineer</h3>
 
-- 🔭 I’m currently working on [Intelenz](www.intelenz.com)
+- 🔭 I’m currently working on [Kipp](www.kipp.storage)
 
-- 🌱 I’m currently learning **Advanced Express and Node.js concepts**
+- 🌱 I’m currently learning **Machine Learning**
 
-- 💬 Ask me about **node, spring, angular**
+- 💬 Ask me about **Node, Spring**
 
 - 📫 How to reach me **omarmalave21@gmail.com**
 
