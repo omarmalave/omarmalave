@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Machine Learning**
 
-- 💬 Ask me about **Node.js, Backend development in general, Machine Learning**
+- 💬 Ask me about **Node.js, Web development in general, Machine Learning**
 
 - 📫 How to reach me **omarmalave21@gmail.com**
 
